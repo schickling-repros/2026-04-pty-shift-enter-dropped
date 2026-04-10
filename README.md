@@ -40,4 +40,4 @@ A possible fix would be to encode shifted special keys using the CSI u format fr
 
 ## Related Issue
 
-<!-- Link will be added after filing -->
+https://github.com/myobie/pty/issues/13
